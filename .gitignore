@@ -1,0 +1,15 @@
+# Ejecutables
+*.exe
+*.out
+huffman
+
+# Archivos comprimidos y recuperados de las pruebas
+*.huf
+*_rec.*
+
+# Archivos de prueba
+aes.txt
+*.zip
+
+# Configuración del editor
+.vscode/
