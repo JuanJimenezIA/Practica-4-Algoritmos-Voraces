@@ -25,6 +25,11 @@ El archivo comprimido guarda en su cabecera el número total de caracteres origi
 | `huffman.cpp` | Código fuente del compresor/descompresor |
 | `Practica_4_JJJM_SLG.pdf` | Reporte de la práctica (Fase 1 y Fase 2) |
 
+## Conversación con la IA
+
+Conversación completa con la herramienta de IA usada en la Fase 2:
+[https://claude.ai/share/dcadd9a9-4b4e-4a16-9a62-18753b0a71c8](https://claude.ai/share/dcadd9a9-4b4e-4a16-9a62-18753b0a71c8)
+
 ## Compilación
 
 ```bash
